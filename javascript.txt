@@ -1,0 +1,25 @@
+JavaScript
+
+alert
+variáveis
+array e dicionario
+condicional (if else)
+laços de repetição while e for
+push, pop e length
+reverse array
+tostring para array
+join para array
+replace
+lowerCase, upperCase
+date
+function
+variavel global/local
+document
+getElement
+innerHTML
+onclick
+redirecionar para outra página
+onmouseover
+onchange
+onload
+onmouseout
